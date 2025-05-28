@@ -1,10 +1,10 @@
-# 🏥 Hospital Management System
+# + Hospital Management System
 
 A simple web-based Hospital Management System built using PHP and MySQL. This system allows for the management of doctors, patients, appointments, lab reports, billing, and inventory through a user-friendly interface.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Patient Management**
   - Add, edit, delete, and list patients
@@ -24,7 +24,7 @@ A simple web-based Hospital Management System built using PHP and MySQL. This sy
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: HTML, CSS, Bootstrap
 - **Backend**: PHP
@@ -33,7 +33,7 @@ A simple web-based Hospital Management System built using PHP and MySQL. This sy
 
 ---
 
-## 📁 Project Structure (Overview)
+## Project Structure (Overview)
 ![{A189DE55-89BD-4AE0-949F-47DC51EB7674}](https://github.com/user-attachments/assets/51a9d08f-1e2a-4dab-9f65-f8ad987ef6a1)
 
 ## snap shots of the project
@@ -67,13 +67,13 @@ A simple web-based Hospital Management System built using PHP and MySQL. This sy
 ![{368D3477-2092-4D46-9EE9-4DA19B27C748}](https://github.com/user-attachments/assets/6b64f2b3-2181-4691-af1b-5a9386af0373)
 
 ## lab reports
--- creating new lab reports
+## creating new lab reports
 ![{F0E5280F-9B33-4CD5-8C71-EC9E32EB47C9}](https://github.com/user-attachments/assets/0d7df3c6-20a4-4772-99fa-bf31004d3875)
 
--- list all lab reports
+## list all lab reports
 ![{0FC183B7-6131-4432-B2FF-F0AD665DD0D8}](https://github.com/user-attachments/assets/e161d9b1-8263-4cc5-9ec4-61cdfab594e9)
 
--- same lab report pdf download
+## lab report pdf download
 ![{41C055D9-9694-4466-A53C-1CC548CE32C8}](https://github.com/user-attachments/assets/0e9c9ded-f458-4a2a-81b5-a1e99942692c)
 
 

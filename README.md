@@ -36,3 +36,13 @@ A simple web-based Hospital Management System built using PHP and MySQL. This sy
 ## 📁 Project Structure (Overview)
 ![{A189DE55-89BD-4AE0-949F-47DC51EB7674}](https://github.com/user-attachments/assets/51a9d08f-1e2a-4dab-9f65-f8ad987ef6a1)
 
+##snap shots of the project
+![Screenshot 2025-05-27 235015](https://github.com/user-attachments/assets/5b70a102-aeb8-4187-bab9-6575611c26d4)
+![Screenshot 2025-05-27 235049](https://github.com/user-attachments/assets/cee6d1c2-254f-468f-94ac-8ac8d1a28898)
+![Screenshot 2025-05-27 235123](https://github.com/user-attachments/assets/8f8d2264-bacd-462f-b908-78cf7aacf377)
+![Screenshot 2025-05-27 234847](https://github.com/user-attachments/assets/6ceaa33b-7be3-4101-9f98-78fb2f7ca617)
+
+
+
+
+

@@ -21,7 +21,6 @@ A simple web-based Hospital Management System built using PHP and MySQL. This sy
   - Track and manage hospital inventory
 - **Authentication**
   - Register and login for users
-  - Session-based access control
 
 ---
 

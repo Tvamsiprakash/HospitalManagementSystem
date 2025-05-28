@@ -35,36 +35,5 @@ A simple web-based Hospital Management System built using PHP and MySQL. This sy
 ---
 
 ## 📁 Project Structure (Overview)
-hospital-management-system/
-├── appointments/
-│   ├── add.php
-│   ├── edit.php
-│   └── list.php
-│
-├── doctors/
-│   ├── add.php
-│   ├── delete.php
-│   ├── edit.php
-│   └── list.php
-│
-├── patients/
-│   ├── add.php
-│   ├── delete.php
-│   ├── edit.php
-│   └── list.php
-│
-├── fpdf182/               # FPDF library for PDF generation
-│
-├── billing.php            # Billing functionality
-├── connection.php         # Database connection file
-├── create_lab_report.php  # Create lab report
-├── dashboard.php          # Main dashboard after login
-├── generate_pdf.php       # Generate PDF from lab reports
-├── index.php              # Landing page or entry point
-├── inventory.php          # Manage inventory
-├── lab_reports_list.php   # List of lab reports
-├── labreport.php          # Lab report entry form
-├── login.php              # Login form
-├── logout.php             # Logout logic
-├── register.php           # Registration page
+![{A189DE55-89BD-4AE0-949F-47DC51EB7674}](https://github.com/user-attachments/assets/51a9d08f-1e2a-4dab-9f65-f8ad987ef6a1)
 

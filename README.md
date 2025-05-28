@@ -27,7 +27,7 @@ A simple web-based Hospital Management System built using PHP and MySQL. This sy
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, Bootstrap (if used)
+- **Frontend**: HTML, CSS, Bootstrap
 - **Backend**: PHP
 - **Database**: MySQL
 - **PDF Generation**: FPDF library
